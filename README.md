@@ -1,7 +1,6 @@
-# Design_Pattern
-> Software Design Pattern
-> 디자인 패턴의 예제 코드 담고 있습니다.
-
+# Design_Pattern & Effective Java 
+> Software Design Pattern <br/>
+> 디자인 패턴의 예제 코드
 
 ## 디자인 패턴 분류
 
@@ -36,3 +35,8 @@
  - 템플릿 메서드 (Template Method)
  - 비지터 (Visitor)
 
+### Effective Java 
+> EXAMPLE CODES
+ - Builder Pattern
+ - Static Factory Pattern 
+ - Singleton Pattern
